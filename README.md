@@ -1,16 +1,55 @@
-# React + Vite
+3D Professional Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Author: Sakthivel – Frontend Engineer & React.js Expert Tech Stack: React.js | TailwindCSS | Three.js | GSAP | Windstorm IDE
 
-Currently, two official plugins are available:
+Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a modern 3D professional portfolio built to showcase my frontend expertise. Using React.js for component-driven architecture, TailwindCSS for responsive design, Three.js for immersive 3D elements, and GSAP for smooth animations, the portfolio delivers a dynamic, interactive, and visually captivating experience.
 
-## React Compiler
+It highlights best practices in UI/UX design, performance optimization, and modular frontend development, making it both engaging and maintainable.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Features
 
-## Expanding the ESLint configuration
+Interactive 3D Hero Section – Engaging visuals powered by Three.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Smooth Animations – GSAP-driven motion for a professional feel
+
+Responsive Design – TailwindCSS ensures perfect display across devices
+
+Clean & Modular Code – Scalable architecture for easy maintenance
+
+High Performance – Optimized 3D and animation performance
+
+Tech Stack Technology Purpose React.js Frontend framework for reusable components and state management TailwindCSS Utility-first styling for responsive and clean layouts Three.js Real-time 3D graphics and interactive elements GSAP Smooth animations and timeline control Windstorm IDE Streamlined development environment for faster workflow Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/3d-portfolio.git
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm start
+
+Open in browser at http://localhost:3000
+
+Folder Structure (Simplified) 3d-portfolio/ ├── public/ # Static assets (images, icons, fonts, etc.) ├── src/ │ ├── components/ # Reusable React components │ ├── section/ # Page-specific UI sections │ ├── constant/ # Dynamic/static data and configuration │ ├── styles/ # TailwindCSS and custom CSS files │ ├── utils/ # Helper functions and utilities │ └── App.jsx # Root React component ├── package.json # Project dependencies and scripts └── README.md # Project documentation
+
+Usage
+
+Explore the interactive 3D sections
+
+Navigate through projects and experience smooth animation transitions
+
+Customize and extend components to showcase your work
+
+Contributions
+
+This is a personal portfolio project, but contributions or suggestions are welcome! Feel free to open an issue or submit a pull request.
+
+License
+
+MIT License © 2025 Sakthivel
