@@ -36,8 +36,19 @@ npm start
 
 Open in browser at http://localhost:3000
 
-Folder Structure (Simplified) 3d-portfolio/ ├── public/ # Static assets (images, icons, fonts, etc.) ├── src/ │ ├── components/ # Reusable React components │ ├── section/ # Page-specific UI sections │ ├── constant/ # Dynamic/static data and configuration │ ├── styles/ # TailwindCSS and custom CSS files │ ├── utils/ # Helper functions and utilities │ └── App.jsx # Root React component ├── package.json # Project dependencies and scripts └── README.md # Project documentation
-
+Folder Structure (Simplified) 3d-portfolio/ 
+```3d-portfolio/
+├── public/ # Static assets (images, icons, fonts, etc.)
+├── src/
+│ ├── components/ # Reusable React components
+│ ├── section/ # Page-specific UI sections
+│ ├── constant/ # Dynamic/static data and configuration
+│ ├── styles/ # TailwindCSS and custom CSS files
+│ ├── utils/ # Helper functions and utilities
+│ └── App.jsx # Root React component
+├── package.json # Project dependencies and scripts
+└── README.md # Project documentation
+```
 Usage
 
 Explore the interactive 3D sections
