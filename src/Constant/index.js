@@ -18,20 +18,20 @@ const navLinks = [
 ];
 
 const words = [
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
+  { id: 1, text: "Ideas", imgPath: "/images/ideas.svg" },
+  { id: 2, text: "Concepts", imgPath: "/images/concepts.svg" },
+  { id: 3, text: "Designs", imgPath: "/images/designs.svg" },
+  { id: 4, text: "Code", imgPath: "/images/code.svg" },
+  { id: 5, text: "Ideas", imgPath: "/images/ideas.svg" },
+  { id: 6, text: "Concepts", imgPath: "/images/concepts.svg" },
+  { id: 7, text: "Designs", imgPath: "/images/designs.svg" },
+  { id: 8, text: "Code", imgPath: "/images/code.svg" },
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
+  { value: 1.3, suffix: "+", label: "Years of Experience" },
+  { value: 5, suffix: "+", label: "Satisfied Clients" },
+  { value: 5, suffix: "+", label: "Completed Projects" },
   { value: 90, suffix: "%", label: "Client Retention Rate" },
 ];
 
@@ -119,18 +119,18 @@ const techStackIcons = [
     scale: 1,
     rotation: [0, 0, 0],
   },
-  {
-    name: "Python Developer",
-    modelPath: "/models/python-transformed.glb",
-    scale: 0.8,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "Backend Developer",
-    modelPath: "/models/node-transformed.glb",
-    scale: 5,
-    rotation: [0, -Math.PI / 2, 0],
-  },
+  // {
+  //   name: "Python Developer",
+  //   modelPath: "/models/python-transformed.glb",
+  //   scale: 0.8,
+  //   rotation: [0, 0, 0],
+  // },
+  // {
+  //   name: "Backend Developer",
+  //   modelPath: "/models/node-transformed.glb",
+  //   scale: 5,
+  //   rotation: [0, -Math.PI / 2, 0],
+  // },
   {
     name: "Interactive Developer",
     modelPath: "/models/three.js-transformed.glb",
@@ -138,7 +138,7 @@ const techStackIcons = [
     rotation: [0, 0, 0],
   },
   {
-    name: "Project Manager",
+    name: "GIT",
     modelPath: "/models/git-svg-transformed.glb",
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
@@ -147,41 +147,41 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    review: "Sakthivel contributed bug free Edofe web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    imgPath: "/images/HBA1.jpg",
+    logoPath: "/images/HBA1.jpg",
+    title: "Frontend Intern (React)",
+    date: "July 2024 - Auguest 2024",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
+      "Developed and maintained user-facing features for the Handbuiltapps.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
       "Optimized web applications for maximum speed and scalability.",
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    review: "Sakthivel brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    imgPath: "/images/HBA1.jpg",
+    logoPath: "/images/HBA1.jpg",
+    title: "Frontend Developer (React)",
+    date: "Auguest 2024 - July 2025",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Contributed to the eDofE UK government project by developing and enhancing responsive, user-facing features using React.js, ensuring accessibility and consistency across platforms.",
+      "Transformed UI/UX designs into functional, production-ready components, collaborating with designers and backend teams to deliver seamless workflows and polished user experiences.",
+      "Improved application performance and scalability by optimizing React components, reducing load times, and implementing reusable code patterns for long-term maintainability."
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    review: "Sakthivel contributions to Edofe's web applications on a crucial time to bring back the team from a deadline. He approaches challenges with a impactful mindset to quick transition for .Net Dev to handle the project adaptablitiy",
+    imgPath: "/images/HBA1.jpg",
+    logoPath: "/images/HBA1.jpg",
+    title: "Full Stack Developer (React + .NET)",
+    date: "Auguest 2025 - Present",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Contributed the development of Edofe web applications, focusing on scalability.",
+      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
+      "Contributed to team on the highly impactful situation to complete the crucial development.",
     ],
-  },
+  }
 ];
 
 const expLogos = [

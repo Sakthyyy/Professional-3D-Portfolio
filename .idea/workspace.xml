@@ -5,87 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f57033a-fc1f-469b-b039-c78fde6d2d57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/arrow-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/arrow-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/chat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/client6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/code.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/concepts.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/designs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/devices.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/exp1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/exp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/exp3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/fav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/gold-star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ideas.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/insta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/jsm-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/company-logo-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/git.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/node.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/python.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/react.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logos/three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/project1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/project2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/project3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/readme-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/readme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/screen.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/textures/mat1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/computer-optimized-transformed.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/computer-optimized.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/git-svg-transformed.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/node-transformed.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/optimized-room.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/python-transformed.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/react_logo-transformed.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/three.js-transformed.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constant/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/Sakthivel3D.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constant/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constant/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section/Hero.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +38,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/HUB/3D Project/src/Constant",
+    "last_opened_file_path": "D:/HUB/3D Project/public/models",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HUB\3D Project\public\models" />
       <recent name="D:\HUB\3D Project\src\Constant" />
       <recent name="D:\HUB\3D Project" />
     </key>
@@ -167,7 +95,7 @@
       <updated>1758993646722</updated>
       <workItem from="1758993647467" duration="622000" />
       <workItem from="1758994288388" duration="1266000" />
-      <workItem from="1758997430362" duration="7742000" />
+      <workItem from="1758997430362" duration="12027000" />
     </task>
     <servers />
   </component>
@@ -190,7 +118,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Section/Hero.jsx</url>
-          <line>37</line>
+          <line>57</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
